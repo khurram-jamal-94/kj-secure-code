@@ -1,0 +1,21 @@
+{
+	"Stripe" : {
+		"Key": "AbCdEfghIklMnoqRstuvwxyz"
+	},
+
+	"ConnectionStrings": {
+		"Database": "Data Source=LocalDatabase.db"
+	},
+
+	"Logging": {
+		"LogLevel":{
+			"Microsoft": "Warning"
+		},
+
+		"Console": {
+			"LogLevel":{
+				"Microsoft": "Information"
+			}
+		}
+	}
+}
